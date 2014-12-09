@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/guang810828/Kesoft.Windows.Forms.Common</projectUrl>
+    <licenseUrl>http://kesoft.net/nuget/Kesoft.Windows.Forms.Common.license.txt</licenseUrl>
+    <iconUrl>http://kesoft.qiniudn.com/kesoft.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Release</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Kesoft Windows Forms Common</tags>
+  </metadata>
+</package>
